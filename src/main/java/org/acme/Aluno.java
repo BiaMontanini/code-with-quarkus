@@ -1,6 +1,8 @@
 package org.acme;
 
 public class Aluno {
+
+    // declaração das variaveis da classe
     String nome;
     String materia;
     Double nota1;
